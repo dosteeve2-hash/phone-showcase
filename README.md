@@ -1,3 +1,7 @@
+# AURA Pro — Phone Showcase
+
+**Production URL:** [https://phone-showcase-nu.vercel.app](https://phone-showcase-nu.vercel.app)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
