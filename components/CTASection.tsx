@@ -98,7 +98,7 @@ export default function CTASection() {
           transition={{ duration: 0.85, delay: 0.35, ease: [0.22, 1, 0.36, 1] }}
           className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-12"
         >
-          {variants.map((v, i) => (
+          {variants.map((v) => (
             <motion.div
               key={v.storage}
               whileHover={{ scale: 1.03, y: -4 }}
