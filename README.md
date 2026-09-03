@@ -24,6 +24,32 @@ Ce projet démontre la maîtrise des animations web avancées avec Framer Motion
 
 ---
 
+## 📸 Aperçu
+
+Captures générées depuis l'application réelle, pas des maquettes — voir `scripts/captures.mjs`.
+
+### Hero
+
+![Hero AURA Pro](docs/captures/hero.png)
+
+### Features
+
+![Section Features](docs/captures/features.png)
+
+### Design — sélecteur de finitions
+
+![Galerie de couleurs](docs/captures/colors.png)
+
+### Specs
+
+![Fiche technique](docs/captures/specs.png)
+
+### Commander
+
+![Section commande](docs/captures/order.png)
+
+---
+
 ## 🎯 Sections
 
 - **Hero** — Introduction épique avec animation d'entrée et tagline percutante
