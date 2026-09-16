@@ -3,7 +3,7 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import Link from "next/link";
 
-const navLinks = [
+export const navLinks = [
   { href: "#features", label: "Features" },
   { href: "#colors", label: "Design" },
   { href: "#specs", label: "Specs" },
